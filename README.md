@@ -1,1 +1,2 @@
 # Passeio-do-Cavalo
+Um programa escrito em java. Um simples programa para passear com o cavalo no tabuleiro vazio. O desafio está em percorrer o tabuleiro e ocupar cada casa somente uma vez. Cada novo movimento o cavalo exibe os movimentos que poderão ser percorrido. Quando o usuário finalizar o passeio o programa pode salvar o passeio em um arquivo. É possível visualizar este passeio futuramente apenas abrindo o arquivo com o passeio salvo.
